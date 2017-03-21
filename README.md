@@ -1,3 +1,6 @@
-# sta141proj
+# STA141B Final Project 
 
-# hi 
+## Exploring Gender Wage Gap in Basketball
+
+Tiffany Chen and Un Leong
+March 22, 2017
