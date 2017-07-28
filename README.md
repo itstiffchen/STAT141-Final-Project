@@ -4,3 +4,5 @@
 
 Tiffany Chen and Un Leong
 March 22, 2017
+
+Used Python, visualization tools like ggplot
